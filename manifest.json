@@ -1,0 +1,7 @@
+{
+  "name": "poly-proj-1",
+  "short_name": "poly-proj-1",
+  "description": "It is a shoping application.",
+  "start_url": "/",
+  "display": "standalone"
+}

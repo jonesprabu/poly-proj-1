@@ -1,0 +1,5 @@
+{
+  "directory": "public/bower_components", 
+  "proxy": "http://165.225.104.32:10223",
+  "https-proxy":"http://165.225.104.32:10223"
+}
